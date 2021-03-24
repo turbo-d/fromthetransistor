@@ -77,3 +77,8 @@ Section 1 & 2 Register Transfer Level design with Verilog:
 
   1 hr:
   - Researched verification of Verilog RTL design. It seems the current industry standard is SystemVerilog and UVM. I did come across a couple well organized github repos that did their verification with cocotb (python). This link talks about some of the newer open-source tools for verification https://www.linkedin.com/pulse/whos-using-uvm-fpga-development-why-lars-asplund. Does UVM require proprietary software?
+
+  1.5 hr:
+  - Got up and running with cocotb as a means for testing Verilog designs. I'm using Icarus Verilog as the simulator. Built and tested a D flip-flop as an example
+
+
