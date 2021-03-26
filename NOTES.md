@@ -36,7 +36,7 @@ My approach
 
 
 
-Section 1 & 2 Register Transfer Level design with Verilog:
+Section 0 Register Transfer Level design with Verilog:
   Goals:
   - Dev enivronment for Verilog
   - Learn Verilog
@@ -81,4 +81,5 @@ Section 1 & 2 Register Transfer Level design with Verilog:
   1.5 hr:
   - Got up and running with cocotb as a means for testing Verilog designs. I'm using Icarus Verilog as the simulator. Built and tested a D flip-flop as an example
 
-
+  0.5 hr:
+  - Worked on behavioral description of 4x1 mux
